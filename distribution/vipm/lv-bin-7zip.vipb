@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-06-13 18:16:52" Modified_Date="2021-02-20 18:12:37" Creator="noobius" Comments="" ID="230596d9516ace4c27326279786699f8">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-06-13 18:16:52" Modified_Date="2021-02-20 18:17:50" Creator="noobius" Comments="" ID="1ea8bd31f1c37d3d1ab949c675f32e29">
   <Library_General_Settings>
     <Package_File_Name>antonio_alexander_lib_lv_bin_7zip</Package_File_Name>
-    <Library_Version>1.1.0.5</Library_Version>
+    <Library_Version>1.1.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>F:\github.com\antonio-alexander\lv-bin-7zip\distribution\working\lv-bin-7zip</Library_Source_Folder>
     <Library_Output_Folder>F:\github.com\antonio-alexander\lv-bin-7zip\distribution\vipm</Library_Output_Folder>
@@ -242,7 +242,7 @@ As described above, 7zip provides you with an api that allows interaction with a
         <Path>F:\github.com\antonio-alexander\lv-bin-7zip\distribution\working\lv-bin-7zip\public</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>09C90BDDAB5B32342461EA0698CE6FB4</GUID>
+      <GUID>F999FDE8AE557FC8E4C950E9EC8833AF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -305,7 +305,7 @@ As described above, 7zip provides you with an api that allows interaction with a
         <Path>F:\github.com\antonio-alexander\lv-bin-7zip\distribution\working\lv-bin-7zip\private\make_installer_exe.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>38170226B5348480E98E5046141D2D46</GUID>
+      <GUID>8D694A0582806DB54F260085B39ED4D5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -340,7 +340,7 @@ As described above, 7zip provides you with an api that allows interaction with a
         <Path>F:\github.com\antonio-alexander\lv-bin-7zip\distribution\working\lv-bin-7zip\public\api</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E490C4304766B519E25875E7D842D8A0</GUID>
+      <GUID>447FF00ABCDB65ED3EE56032F04E0615</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -375,7 +375,7 @@ As described above, 7zip provides you with an api that allows interaction with a
         <Path>F:\github.com\antonio-alexander\lv-bin-7zip\distribution\working\lv-bin-7zip\public\api\v1</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E25E6274D19A4173178644A5E8836E60</GUID>
+      <GUID>16B331DF3F8D5F337E6E39035C64C2B7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -466,7 +466,7 @@ As described above, 7zip provides you with an api that allows interaction with a
         <Path>F:\github.com\antonio-alexander\lv-bin-7zip\distribution\working\lv-bin-7zip\public\api\v1\make_installer.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AF7C3F27E81F4E9F24EB4C803F5AB7F1</GUID>
+      <GUID>0E5D267FB1182BB629A231DE42C135AA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -557,7 +557,7 @@ As described above, 7zip provides you with an api that allows interaction with a
         <Path>F:\github.com\antonio-alexander\lv-bin-7zip\distribution\working\lv-bin-7zip\public\api\v1\advanced\make_installer_exe_simple.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>20F7CA13886C183AE8524E1925A942CA</GUID>
+      <GUID>F7F0C3052BE3A81CC58EEE86ADAD0912</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -634,7 +634,7 @@ As described above, 7zip provides you with an api that allows interaction with a
         <Path>F:\github.com\antonio-alexander\lv-bin-7zip\distribution\working\lv-bin-7zip\public\api\v1\examples\example_04_make_installer.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>22381705645B8E096279A9394619865C</GUID>
+      <GUID>4F024A7DB23F8A3A04FFBFE7623E020B</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -655,7 +655,7 @@ As described above, 7zip provides you with an api that allows interaction with a
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>..</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>F7F3869E4780D8C47EA0EB277403113D</GUID>
+      <GUID>FB9D6E9984961BD25341CA2A3FF2A5E0</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
