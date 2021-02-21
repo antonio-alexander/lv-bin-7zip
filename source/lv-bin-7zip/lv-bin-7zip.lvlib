@@ -67,5 +67,4 @@
 			<Item Name="v1.lvlib" Type="Library" URL="../public/api/v1/v1.lvlib"/>
 		</Item>
 	</Item>
-	<Item Name="README.md" Type="Document" URL="../README.md"/>
 </Library>
